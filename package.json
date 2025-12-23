@@ -1,6 +1,6 @@
 {
   "name": "agentql-mcp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Model Context Protocol server that integrates AgentQL's data extraction capabilities.",
   "main": "src/index.ts",
   "scripts": {
